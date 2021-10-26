@@ -1,7 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Destini 🤔
+>Fork of https://github.com/londonappbrewery/destini-challenge-starting with updated Flutter Code
 
 ## Our Goal
 
