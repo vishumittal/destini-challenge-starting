@@ -7,31 +7,31 @@
 //List<Story> _storyData = [
 //  Story(
 //      storyTitle:
-//      'Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: "Need a ride, boy?".',
-//      choice1: 'I\'ll hop in. Thanks for the help!',
-//      choice2: 'Better ask him if he\'s a murderer first.'),
+//      'In a foreign land, I see amazing fast cars around me all the time. Being a teenager college student, I wish I could get one too! Well, my father is fairly rich and I ask him to get me one. He said to me I would get one if do well in the upcoming semester.',
+//      choice1: 'Wow! Thanks, Dad I will give my best!',
+//      choice2: 'Hmm. No, I am fine.'),
 //  Story(
-//      storyTitle: 'He nods slowly, unphased by the question.',
-//      choice1: 'At least he\'s honest. I\'ll climb in.',
-//      choice2: 'Wait, I know how to change a tire.'),
-//  Story(
-//      storyTitle:
-//      'As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.',
-//      choice1: 'I love Elton John! Hand him the cassette tape.',
-//      choice2: 'It\'s him or me! You take the knife and stab him.'),
+//      storyTitle: 'My best friend gets a flashing new BMW. No wonder, his father is quite rich, but he doesn’t deserve it. Well, I should really focus on myself.',
+//      choice1: 'I call my papa if his offer is still valid :)',
+//      choice2: 'Next Party transportation, BMW.'),
 //  Story(
 //      storyTitle:
-//      'What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?',
+//      'Day and night study!. Drop cricket club, no Friday night movie, and focus Focus Focus. I get awesome grades and my father gets a GTI delivered to my dormitory! I take it out for a ride. Days pass, the car becomes a burden to handle. Insurance, taking friends to parties, study pressure piling on. Meanwhile, found some Singhs wanting to go to Sangat.',
+//      choice1: 'Wow! I remember my junior Khalsa camp days. Can I help?',
+//      choice2: 'Hmm. No time, maybe when I am 60…. :-/'),
+//  Story(
+//      storyTitle:
+//      'Next 3 parties, we were the strangest people with a BMW :-/ Well, my friend goes out with someone on a date, I am feeling lonely now. Got a call from buddy Bhujangi Singh next door, there seems to be a new Gurdwara in Roanoke, that they want a website for. Hmm.. http://sttm.co/s/5533/60321',
 //      choice1: 'Restart',
 //      choice2: ''),
 //  Story(
 //      storyTitle:
-//      'As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.',
+//      'I continue my life by involving myself in more worldly affairs and my intellect, wondering why I am climbing an endless ladder. One early morning in December: “Is someone playing dholki on the streets?” http://sttm.co/s/2529/28631',
 //      choice1: 'Restart',
 //      choice2: ''),
 //  Story(
 //      storyTitle:
-//      'You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: "Try the pier".',
+//      'I get blessed with Sadh Sangat, explore the path of true religion (Shabad Guru), and give myself to Guru Panj Pyaare in front of Sahib Sri Guru Granth Sahib. The rest of life goes naturally. http://sttm.co/s/41000/207391',
 //      choice1: 'Restart',
 //      choice2: '')
 //];
